@@ -1,0 +1,49 @@
+Rulare 1
+DeJong: 0.0751
+Schwefel: -2094.8386
+Rastrigin: 0.0148
+SixHump: -0.2119
+
+Rulare 2
+DeJong: 0.0568
+Schwefel: -2094.8386
+Rastrigin: 0.0148
+SixHump: -0.2119
+
+Rulare 3
+DeJong: 0.0009
+Schwefel: -2094.8386
+Rastrigin: 0.0148
+SixHump: -0.2119
+
+Rulare 4
+DeJong: 0.0154
+Schwefel: -2094.8386
+Rastrigin: 0.0148
+SixHump: -0.2119
+
+Rulare 5
+DeJong: 7.5024
+Schwefel: -2094.8386
+Rastrigin: 0.0148
+SixHump: -0.8865
+
+DeJong:
+Worst Case:7.5024
+Best Case:0.0009
+Medie:  1.5301
+
+Schwefel:
+Worst Case: -2094.8386
+Best Case: -2094.8386
+Medie: -2094.8386
+
+Rastrigin:
+Worst Case: 0.0148
+Best Case: 0.0148
+Medie: 0.0148 
+
+SixHump:
+Worst Case: -0.2119
+Best Case: -0.8865
+Medie: -0.3468
